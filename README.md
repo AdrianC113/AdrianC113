@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Carranza</h1>
-<h3 align="center">A passionate frontend developer from Las Vegas, NV</h3>
+<h3 align="center">A software developer from Las Vegas, NV</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development though LEARN Academy**
 
